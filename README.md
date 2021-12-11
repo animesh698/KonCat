@@ -19,7 +19,3 @@ Add-ons:
 
 Contributing:
 We're are open to enhancements & bug-fixes.
-
-Note:
-
-This project was done under 24 hours with minimal pre-preparation
